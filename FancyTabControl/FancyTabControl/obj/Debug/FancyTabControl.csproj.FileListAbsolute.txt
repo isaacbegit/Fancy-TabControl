@@ -1,0 +1,9 @@
+E:\GitHub\FancyTabControl\FancyTabControl\obj\Debug\FancyTabControl.csprojResolveAssemblyReference.cache
+E:\GitHub\FancyTabControl\FancyTabControl\obj\Debug\FancyTabControl.Form1.resources
+E:\GitHub\FancyTabControl\FancyTabControl\obj\Debug\FancyTabControl.Properties.Resources.resources
+E:\GitHub\FancyTabControl\FancyTabControl\obj\Debug\FancyTabControl.csproj.GenerateResource.Cache
+E:\GitHub\FancyTabControl\FancyTabControl\bin\Debug\FancyTabControl.exe
+E:\GitHub\FancyTabControl\FancyTabControl\bin\Debug\FancyTabControl.pdb
+E:\GitHub\FancyTabControl\FancyTabControl\obj\Debug\FancyTabControl.exe
+E:\GitHub\FancyTabControl\FancyTabControl\obj\Debug\FancyTabControl.pdb
+E:\GitHub\FancyTabControl\FancyTabControl\bin\Debug\FancyTabControl.exe.config
